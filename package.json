@@ -44,7 +44,8 @@
     "url-loader": "^1.0.1",
     "webpack": "^4.1.1",
     "webpack-dev-server": "^3.1.1",
-    "webpack-stream": "^4.0.2"
+    "webpack-stream": "^4.0.2",
+    "typescript": "^2.7.2"
   },
   "author": "Telerik",
   "license": "Apache-2.0",
